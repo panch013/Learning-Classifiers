@@ -1,8 +1,8 @@
 # Learning-Classifiers
-Install
+##Install
 
 Anaconda
 
-References
+##References
 
 https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM
