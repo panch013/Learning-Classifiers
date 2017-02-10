@@ -12,3 +12,6 @@ https://conda.io/docs/py2or3.html
 
 
 http://l4wisdom.com/pymongo/mongoinsert.php
+
+MongoDB to RDBMS Analogy
+http://www.w3resource.com/mongodb/databases-documents-collections.php
